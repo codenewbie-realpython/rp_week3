@@ -6,7 +6,8 @@ Let's have finished chapter 6 by our next meeting on May 26 **at 8:30 EDT**. Dis
 ### Add links here to extra practice for this week's topics
 ---
 #### Functions
-http://www.tutorialspoint.com/python/python_functions.htm
+http://www.tutorialspoint.com/python/python_functions.htm 
+
 http://www.learnpython.org/en/Functions
 
 #### For/while loops
