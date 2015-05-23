@@ -11,3 +11,5 @@ http://www.tutorialspoint.com/python/python_functions.htm
 http://www.learnpython.org/en/Functions
 
 #### For/while loops
+
+http://www.learnpython.org/en/Loops
